@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\IMC C#\bin\Debug\net7.0\IMC C#.exe
+c:\Users\vinic\Desktop\IMC C#\bin\Debug\net7.0\IMC C#.deps.json
+c:\Users\vinic\Desktop\IMC C#\bin\Debug\net7.0\IMC C#.runtimeconfig.json
+C:\Users\vinic\Desktop\IMC C#\bin\Debug\net7.0\IMC C#.dll
+C:\Users\vinic\Desktop\IMC C#\bin\Debug\net7.0\IMC C#.pdb
+C:\Users\vinic\Desktop\IMC C#\obj\Debug\net7.0\IMC C#.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\IMC C#\obj\Debug\net7.0\IMC C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\IMC C#\obj\Debug\net7.0\IMC C#.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\IMC C#\obj\Debug\net7.0\IMC C#.AssemblyInfo.cs
+C:\Users\vinic\Desktop\IMC C#\obj\Debug\net7.0\IMC C#.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\IMC C#\obj\Debug\net7.0\IMC C#.dll
+C:\Users\vinic\Desktop\IMC C#\obj\Debug\net7.0\refint\IMC C#.dll
+C:\Users\vinic\Desktop\IMC C#\obj\Debug\net7.0\IMC C#.pdb
+c:\Users\vinic\Desktop\IMC C#\obj\Debug\net7.0\IMC C#.genruntimeconfig.cache
+c:\Users\vinic\Desktop\IMC C#\obj\Debug\net7.0\ref\IMC C#.dll
