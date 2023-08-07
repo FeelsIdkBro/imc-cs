@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\Desktop\\IMC C#\\IMC C#.csproj",
+      "projectUniqueName": "c:\\Users\\vinic\\Desktop\\gg\\imc-cs\\IMC C#.csproj",
       "projectName": "IMC C#",
-      "projectPath": "C:\\Users\\vinic\\Desktop\\IMC C#\\IMC C#.csproj",
+      "projectPath": "c:\\Users\\vinic\\Desktop\\gg\\imc-cs\\IMC C#.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\Desktop\\IMC C#\\obj\\",
+      "outputPath": "c:\\Users\\vinic\\Desktop\\gg\\imc-cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config"
